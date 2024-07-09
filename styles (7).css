@@ -1,0 +1,22 @@
+body{
+    padding: 25px;
+      background-color: white;
+  }
+  .l{
+    color: aliceblue;
+    background-color:blue;
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+
+    }
+
+    .list{
+        padding: 10px 50px;
+    }
+    
+    a {
+      color : white;
+      text-decoration: none;
+    }
